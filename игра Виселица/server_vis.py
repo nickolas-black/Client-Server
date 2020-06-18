@@ -1,3 +1,5 @@
+#вариант игры
+#сервер игры
 import random
 import socketserver
 
